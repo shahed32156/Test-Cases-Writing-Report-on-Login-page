@@ -1,1 +1,3 @@
 # Test-Cases-Writing-Report-on-Login-page
+
+Here a test case report writing on a website "E-commerce" which is developed by my friend. I tested the Login page of these website manually. I created test cases for various scenarios of the Login page, where I matched the expected results with the actual results. Writing test cases is important because it ensures that the application works as expected under different scenarios and helps identify defects early. It provides clear steps for consistent testing and makes it easier for others to reproduce issues. Well-written test cases also improve the overall quality and reliability of the software. In the future, failed test cases will be developed.
